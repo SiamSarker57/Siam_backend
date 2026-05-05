@@ -1,0 +1,12 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.12
+scikit-learn==1.5.2; python_version < "3.14"
+scikit-learn>=1.7.0; python_version >= "3.14"
+joblib==1.4.2
+requests==2.32.3
+numpy==1.26.4; python_version < "3.14"
+numpy>=2.2.0; python_version >= "3.14"
+pydantic==2.9.2; python_version < "3.14"
+pydantic>=2.11.0; python_version >= "3.14"
+
