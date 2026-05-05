@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SCALA-Guard Backend v2.0
 
 FastAPI-based threat intelligence backend for package security analysis.
@@ -75,3 +76,6 @@ curl -X POST http://localhost:8000/analyze/batch \
 - **Scikit-learn** — ML risk scoring (Random Forest)
 - **DeepSeek API** — AI remediation (optional)
 - **Docker/strace** — Sandbox (production deployment)
+=======
+# Siam_backend
+>>>>>>> 549265781be5de0035cdf13b06d9d3a78991adc0
